@@ -32,6 +32,11 @@
 $ npm install
 ```
 
+## Migrations command
+npm run migration:generate --name=CreateUsersTable
+
+npm run migration:run
+
 ## Running the app
 
 ```bash
